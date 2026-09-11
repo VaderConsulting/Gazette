@@ -1,6 +1,6 @@
 # Gazette
 
-VB6 working copy of `Gazette` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `Gazette Translator.exe`. `VersionCompanyName`: Chips, Bits and Bytes.
+Chips, Bits and Bytes VB6 Gazette Translator (`Gazette Translator.exe`) for gazette/directory data entry. Half-page and full-page forms with Prev/Next field navigation, DAO 3.5 Access export, text export, and supplier/office/postcode fields (JA/JX/KX/KS legend). Startup `frmFull`.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
